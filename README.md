@@ -4,6 +4,8 @@
 
 https://github.com/anshulc55/terraform
 
+https://github.com/davidrecordon/terraform-aws-kolide-fleet
+
 # tf-gcp
 Terraform v0.14.6
 
